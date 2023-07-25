@@ -1,2 +1,2 @@
 # fleet-infra
-Weave Devops demo
+Weave Devops demo 1.0
